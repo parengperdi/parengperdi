@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on **angel's menu**
 
+- 🌱 I'm currently learning **Backend Development.**
+- 
 - 🌱 I'm still learning more about **React and Tailwind CSS.**
 
 - 📫 How to reach me **ferdinandcoroneljr123@gmail.com**
