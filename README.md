@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Backend Development.**
   
-- 🌱 I'm still learning more about **React and Tailwind CSS.**
+- 🌱 I'm still learning more about **MERN Stack and Tailwind CSS.**
 
 - 📫 How to reach me **ferdinandcoroneljr123@gmail.com**
 
