@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parengperdi&label=Profile%20views&color=0e75b6&style=flat" alt="parengperdi" /> </p>
 
-- 🔭 I’m currently working on **angel's menu**
+- 🔭 I am currently working as a **Freelance Developer.**
 
-- 🌱 I'm currently learning **Backend Development.**
-  
-- 🌱 I'm still learning more about **MERN Stack and Tailwind CSS.**
+- 🌱 I am a **Fullstack Developer.**
 
 - 📫 How to reach me **ferdinandcoroneljr123@gmail.com**
 
