@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I play chess to ease sleepiness.**
 
-- - ⚡ Fun fact # 2 **I type 90WPM.**
+- ⚡ Fun fact # 2 **I type 90WPM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
