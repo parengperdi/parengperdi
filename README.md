@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parengperdi&label=Profile%20views&color=0e75b6&style=flat" alt="parengperdi" /> </p>
 
-- 🔭 I am currently working as a **Freelance Developer.**
+- 🔭 I am currently working as a **Software IT Engineer.**
 
 - 🌱 I am a **Fullstack Developer.**
 
