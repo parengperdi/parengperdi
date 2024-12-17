@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I play chess to ease sleepiness.**
 
+- - ⚡ Fun fact # 2 **I type 90WPM.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ferdi14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdi14" height="30" width="40" /></a>
