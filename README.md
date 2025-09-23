@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdi</h1>
 <h3 align="center">A computer engineer who loves coding with coffee.</h3>
-<img align="right" alt="Coding" width="380vh" style="border-radius: 25px;"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parengperdi&label=Profile%20views&color=0e75b6&style=flat" alt="parengperdi" /> </p>
 
 - 🔭 I am currently working as a **Software IT Engineer.**
 
