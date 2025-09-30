@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferdi</h1>
-<h3 align="center">A computer engineer who loves coding with coffee.</h3>
+<h3 align="center">A Fullstack Developer who loves coding with coffee.</h3>
 
 - 🔭 I am currently working as a **Software IT Engineer.**
 
