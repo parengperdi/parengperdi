@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working as a **Software IT Engineer.**
 
-- 🌱 I am a **Fullstack Developer.**
+- 🌱 I am a **Full-Stack Developer.**
 
 - 📫 How to reach me **ferdinandcoroneljr123@gmail.com**
 
