@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ferdi</h1>
 <h3 align="center">A Fullstack Developer who loves coding with coffee.</h3>
 
-- 🔭 I am currently working as a **Software IT Engineer.**
+- 🔭 I am currently working as a **Software Engineer.**
 
 - 🌱 I am a **Full-Stack Developer.**
 
-- 📫 How to reach me **ferdinandcoroneljr123@gmail.com**
+- 📫 How to reach me **ferdinandcoroneljr@gmail.com**
 
 - ⚡ Fun fact #1: **I play chess to ease sleepiness.**
 
