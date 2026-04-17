@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack-blue?style=flat" />
-  <!-- <img src="https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20Boot%20%7C%20React-green?style=flat" /> -->
   <img src="https://img.shields.io/badge/Loves-Coffee-brown?style=flat" />
 </p>
 
@@ -18,10 +17,11 @@
 ---
 
 <h3 align="left">🤝 Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/ferdi14" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+  <a href="https://linkedin.com/in/ferdi14" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
 
 ---
@@ -29,14 +29,7 @@
 <h3 align="left">🧰 Languages and Tools:</h3>
 
 <p align="left">
-  <!-- Main stack (skillicons for clean alignment) -->
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,angular,tailwind,bootstrap,html,css,spring,nodejs,express,mysql,postgres,mongodb,git,github,docker,aws" />
-</p>
-
-<p align="left">
-  <!-- Additional tools not in skillicons -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,angular,tailwind,bootstrap,html,css,spring,nodejs,express,mysql,postgres,mongodb,git,github,docker,aws,postman" />
 </p>
 
 ---
